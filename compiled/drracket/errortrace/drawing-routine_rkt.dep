@@ -1,0 +1,1 @@
+("7.0" ("813450f684159f9d3ed39b9eaea8078e009a68dd" . "31353d537c100e01aef7ed6e692668f86a7c9baf") #"/home/samarjeet/Desktop/CS 152 + CS 154/N Body Simulation/declarations.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"gui.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
